@@ -1,0 +1,16 @@
+{
+    "Background": {
+      "path": "data/game/backgrounds/bg.png",
+      "size": {
+        "width": 1280,
+        "height": 720
+      },
+      "columns": 1,
+      "entries": [{
+        "name": "Background",
+        "row": 0,
+        "col": 0
+      }]
+    }
+  }
+  
