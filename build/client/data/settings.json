@@ -14,13 +14,13 @@
 	"textSpeed": 32,
 	"title": "PROJECT DVN",
 	"loadTitle": "LOADING PROJECT DVN",
-	"saveScene": "main",
-	"saveBackground": "Home",
-	"saveMusic": "Main",
+	"saves": {},
 	"fullScreen": false,
 	"defaultCharacterNameColors": {},
 	"dialoguePanelBackgroundColor": "000",
 	"dialoguePanelBorderColor": "000",
 	"namePanelBackgroundColor": "000",
-	"namePanelBorderColor": "000"
+	"namePanelBorderColor": "000",
+	"loadText": "Load: ",
+	"backText": "Back"
 }

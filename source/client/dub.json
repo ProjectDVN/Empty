@@ -9,6 +9,6 @@
 	],
 	"dependencies": {
 		"derelict-util": "~>3.0.0-beta.1",
-		"dvn": "~>0.0.12"
+		"dvn": "~>0.0.14"
 	}
 }
