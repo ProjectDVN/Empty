@@ -22,5 +22,11 @@
 	"namePanelBackgroundColor": "000",
 	"namePanelBorderColor": "000",
 	"loadText": "Load: ",
-	"backText": "Back"
+	"backText": "Back",
+	"meta": null,
+	"saveButtonText": "Save",
+	"exitButtonText": "Exit",
+	"settingsButtonText": "Settings",
+	"autoButtonTextOn": "Auto: On",
+	"autoButtonTextOff": "Auto: Off"
 }
