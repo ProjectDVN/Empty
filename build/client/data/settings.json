@@ -28,5 +28,6 @@
 	"exitButtonText": "Exit",
 	"settingsButtonText": "Settings",
 	"autoButtonTextOn": "Auto: On",
-	"autoButtonTextOff": "Auto: Off"
+	"autoButtonTextOff": "Auto: Off",
+	"dialogueHistory": false
 }
