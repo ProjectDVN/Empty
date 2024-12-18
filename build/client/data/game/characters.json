@@ -4,12 +4,6 @@
     "size": {
       "width": 266,
       "height": 586
-    },
-    "columns": 1,
-    "entries": [{
-      "name": "Stickman",
-      "row": 0,
-      "col": 0
-    }]
+    }
   }
 }
