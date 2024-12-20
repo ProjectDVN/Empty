@@ -29,5 +29,6 @@
 	"settingsButtonText": "Settings",
 	"autoButtonTextOn": "Auto: On",
 	"autoButtonTextOff": "Auto: Off",
-	"dialogueHistory": false
+	"dialogueHistory": false,
+	"disableLoadScreenMusic": true
 }
