@@ -1,6 +1,5 @@
 module main;
 
-import zid;
 import dvn;
 
 import core.stdc.stdlib : exit;
