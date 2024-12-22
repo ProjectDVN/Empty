@@ -6,6 +6,6 @@
 	"lflags" : ["/LIBPATH:libs_win_sdl_x64", "/SUBSYSTEM:windows"],
 	"dependencies": {
 		"derelict-util": "~>3.0.0-beta.1",
-		"dvn": "~>1.0.2"
+		"dvn": "~>1.0.3"
 	}
 }
