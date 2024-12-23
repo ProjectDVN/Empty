@@ -46,10 +46,21 @@
       }
     }, {
       "label": {
+        "name": "galleryLabel",
+        "text": "Gallery",
+        "location": "topCenter",
+        "relativeY": "settingsLabelY+settingsLabelHeight+16",
+        "fontSize": 32,
+        "shadow": true,
+        "link": true,
+        "events": ["initialize", "mouseUp"]
+      }
+    }, {
+      "label": {
         "name": "exitLabel",
         "text": "Exit",
         "location": "topCenter",
-        "relativeY": "settingsLabelY+settingsLabelHeight+16",
+        "relativeY": "galleryLabelY+galleryLabelHeight+16",
         "fontSize": 32,
         "shadow": true,
         "link": true,
