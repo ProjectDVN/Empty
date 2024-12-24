@@ -35,10 +35,21 @@
       }
     }, {
       "label": {
+        "name": "historyLabel",
+        "text": "History",
+        "location": "topCenter",
+        "relativeY": "loadLabelY+loadLabelHeight+16",
+        "fontSize": 32,
+        "shadow": true,
+        "link": true,
+        "events": ["initialize", "mouseUp"]
+      }
+    }, {
+      "label": {
         "name": "settingsLabel",
         "text": "Settings",
         "location": "topCenter",
-        "relativeY": "loadLabelY+loadLabelHeight+16",
+        "relativeY": "historyLabelY+historyLabelHeight+16",
         "fontSize": 32,
         "shadow": true,
         "link": true,
