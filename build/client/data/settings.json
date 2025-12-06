@@ -31,5 +31,6 @@
 	"autoButtonTextOff": "Auto: Off",
 	"quickSaveButtonText": "Q-Save",
 	"dialogueHistory": false,
-	"disableLoadScreenMusic": true
+	"disableLoadScreenMusic": true,
+	"displayOptionsAsButtons": true
 }
