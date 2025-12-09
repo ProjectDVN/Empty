@@ -1,9 +1,8 @@
 [main]
-background=MainMenuBackground
+bg=MainMenuBackground
 act:start:Start Story=Act 1 - Main
 
 [start]
-background=Background
-char=Stickman
-charName=Stickman
-text:end=Hello World!
+bg=Background
+c=Stickman
+Stickman=Hello World!
